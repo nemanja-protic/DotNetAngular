@@ -460,3 +460,6 @@ appsettings.json
 datingapp.db
 
 ssl
+
+
+*.targets
